@@ -1,5 +1,6 @@
+package parte3IntroducaoEEstruturasCondicionaisEmJava;
+
 public class ResultadoEscolarCondicionalTernaria2 {
-    
     // Cenário 2
 	public static void main(String[] args) {
 		int nota = 6;

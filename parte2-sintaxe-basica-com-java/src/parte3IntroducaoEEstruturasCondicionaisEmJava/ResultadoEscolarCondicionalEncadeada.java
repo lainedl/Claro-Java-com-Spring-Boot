@@ -1,3 +1,5 @@
+package parte3IntroducaoEEstruturasCondicionaisEmJava;
+
 public class ResultadoEscolarCondicionalEncadeada {
  // ResultadoEscolar.java
     public static void main(String[] args) {

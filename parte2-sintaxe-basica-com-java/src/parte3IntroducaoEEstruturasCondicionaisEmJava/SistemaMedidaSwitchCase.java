@@ -1,8 +1,9 @@
-public class SistemaMedidaSwitchCase {
+package parte3IntroducaoEEstruturasCondicionaisEmJava;
 
+public class SistemaMedidaSwitchCase {
     // SistemaMedida.java
 
-// Modo condicional switch / case
+	// Modo condicional switch / case
 	public static void main(String[] args) {
 		String sigla = "M";
 

@@ -1,3 +1,5 @@
+package parte3IntroducaoEEstruturasCondicionaisEmJava;
+
 // CaixaEletronico.java
 public class CaixaEletronicoCondicionalSimples {
     public static void main(String[] args) {

@@ -1,5 +1,6 @@
-public class SistemaMedidaIfElse {
+package parte3IntroducaoEEstruturasCondicionaisEmJava;
 
+public class SistemaMedidaIfElse {
     public static void main(String[] args) {
         String sigla = "M";
     

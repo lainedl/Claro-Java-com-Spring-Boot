@@ -1,3 +1,5 @@
+package parte3IntroducaoEEstruturasCondicionaisEmJava;
+
 // ResultadoEscolar.java
 public class ResultadoEscolarCondicionalComposta {
     public static void main(String[] args) {

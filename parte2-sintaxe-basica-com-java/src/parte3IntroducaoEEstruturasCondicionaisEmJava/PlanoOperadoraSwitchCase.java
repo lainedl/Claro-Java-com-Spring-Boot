@@ -1,5 +1,6 @@
-public class PlanoOperadoraSwitchCase {
+package parte3IntroducaoEEstruturasCondicionaisEmJava;
 
+public class PlanoOperadoraSwitchCase {
     // Modo condicional switch/case
 	public static void main(String[] args) {
 		String plano = "M"; // M / T

@@ -1,5 +1,6 @@
-public class PlanoOperadoraIfElse {
+package parte3IntroducaoEEstruturasCondicionaisEmJava;
 
+public class PlanoOperadoraIfElse {
     // Modo condicional convencional
 	public static void main(String[] args) {
 		String plano = "M"; //M / T

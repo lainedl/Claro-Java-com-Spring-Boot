@@ -1,3 +1,5 @@
+package parte3IntroducaoEEstruturasCondicionaisEmJava;
+
 public class ResultadoEscolarCondicionalTernaria1 {
     // Cenário 1
 	public static void main(String[] args) {
